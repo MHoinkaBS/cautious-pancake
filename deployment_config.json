@@ -1,9 +1,9 @@
 {
-  "appName": "potential-fiesta",
+  "appName": "cautious-pancake",
   "deploymentEnv": "DEV",
   "isDomainApp": true,
   "description": "Fake Application",
-  "buildPath": "WESB/AsynchApplications/wefdomain",
+  "buildPath": "cautious-pancake",
   "buildCommand": "mvn clean install -DskipTests",
   "unitTestsCommand": "mvn test",
   "updateDatabase": true
