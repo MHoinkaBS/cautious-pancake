@@ -1,6 +1,5 @@
 {
   "appName": "cautious-pancake",
-  "deploymentEnv": "DEV",
   "isDomainApp": true,
   "description": "Fake Application",
   "buildPath": "cautious-pancake",
