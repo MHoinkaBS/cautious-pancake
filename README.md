@@ -1,4 +1,5 @@
 # cautious-pancake
 Test repo
 Fake change
-Fake change 2
+Changes in 1.2.0-SNAPSHOT
+
